@@ -2,17 +2,8 @@
 
 ### <p> Contact me: <a href="mailto:jack.lee91717@gmail.com">jack.lee91717@gmail.com </a> </p>
 
-### Profile Views
-
-![](https://count.getloli.com/get/@idimetrix.github.readme)
-
-#### With over 8 years of experience, a Lead Full-Stack Software Engineer specializes in designing and developing web applications. Skilled in JavaScript frameworks like React, Vue, Svelte, Stencil, and Angular, and proficient with back-end technologies such as Node, Go, and Python, this role focuses on creating scalable, efficient, and secure applications.
-
-<summary>Highlights / Proficiencies / Interests / Believes</summary>
-
 Highlights:
 
-- ⭐ total 8+ years of professional experience in full lifecycle development
 - ⭐ Delivered over 13+ projects
 - ⭐ Worked with over 4+ companies from startup to enterprise level
 - ⭐ Mentoring over 10+ individuals on how to grow their technical and leadership skills
@@ -23,7 +14,6 @@ Highlights:
 
 Proficiencies:
 
-- 📚 OpenAI, GPT, LangChain, LangGraph, RunPod, HuggingFace, Ollama, Pytorch, Tensorflow
 - 📚 JavaScript, TypeScript, Node.js with Serverless and Containers, and Microservices architecture
 - 📚 React.js + Next.js + SSR/CSR + Prisma + Vercel
 - 📚 Vue.js + Nuxt.js + SSR/CSR + TypeOrm + Cloudflare
@@ -32,7 +22,6 @@ Proficiencies:
 - 📚 AWS (Amazon Web Service), Azure, GCP, Kubernetes, Docker, Nginx
 - 📚 Go lang, Python/Flask/Django/FastAPI
 - 📚 HTML5/CSS3 + Canvas + WebGL + Animation
-- 📚 Dart/Flutter, Firebase, Supabase
 - 📚 Agile, Scrum, Kanban
 - 📚 Web2/Web3 startups
 - 📚 Cryptography (cryptocurrency and blockchain)
@@ -117,40 +106,3 @@ A big believer in:
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 
 
-### 📈 GitHub Activity Graph:
-
-<!--   green snake -->
-
-![healer's github activity graph](https://raw.githubusercontent.com/idimetrix/idimetrix/output/github-contribution-grid-snake.svg)
-
-<!--   stats + languages -->
-
-| .                                                                                                                                                 | .                                                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| ![healer's github stats](https://github-readme-stats.vercel.app/api?username=healer-1205&show_icons=true&rank_icon=github&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=healer-1205&theme=radical&layout=compact) |
-
-<!--   profile-green-animate -->
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idimetrix" alt="idimetrix" /></a>
-</p>
-
-   <!--machine-learning-->
-
-```mermaid
-graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-```
-=======
-# jackdev777
