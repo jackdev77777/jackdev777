@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ---**AI first developer**---
 
 ### <p> Contact me: <a href="mailto:jack.lee91717@gmail.com">jack.lee91717@gmail.com </a> </p>
@@ -155,4 +154,3 @@ graph TD;
 ```
 =======
 # jackdev777
->>>>>>> 2ba7027382e219a6c2073718c288b236b0927db7
