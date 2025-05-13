@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ---**AI first developer**---
 
 ### <p> Contact me: <a href="mailto:crazyhealer1205@gmail.com">crazyhealer1205@gmail.com </a> </p>
@@ -152,3 +153,6 @@ graph TD;
     machine-learning-->Evaluation-Metrics;
     machine-learning-->Deployment;
 ```
+=======
+# jackdev777
+>>>>>>> 2ba7027382e219a6c2073718c288b236b0927db7
